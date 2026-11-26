@@ -20,6 +20,10 @@ ui_*.h
 *.pro.user.*
 *.autosave
 
+# ---- 运行时文件 ----
+config.ini
+music/
+
 # ---- 编辑器 / 系统 ----
 .vs/
 .vscode/
